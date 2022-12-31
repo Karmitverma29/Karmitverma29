@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karmit Verma</h1>
 <h3 align="center">A passionate & Aspiring Full-Stack Web Developer/Front-end Developer</h3>
-<img align="center" width="500"  src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="Banner"/>
+<img  width="100%"   src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="Banner"/>
 
 - 🔭 I worked on [MailTrap](https://equal-part-8697-ps35.vercel.app/)
 
