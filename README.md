@@ -1,7 +1,7 @@
 
-<img  width="100%"   src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="Banner"/>
 <h1 align="center">Hi 👋, I'm Karmit Verma</h1>
 <h3 align="center">A passionate full-stack Web Developer/Front-end Developer</h3>
+<img  width="100%"   src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="Banner"/>
 
 - 🔭 I worked on [Buylance](https://buylance.netlify.app/)
 
