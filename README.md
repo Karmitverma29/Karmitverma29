@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Full-Stack Web development**
 - 🔭 I worked on [Buylance](https://buylance.netlify.app/)
 - 👯 I worked on [NordStorm](https://skincare-delta.vercel.app/index.html)
-- <h3 align="center">Get in touch with me📫: **Karmittech2004@gmail.com** </h1>
+- Get in touch with me📫: **Karmittech2004@gmail.com** 
 - My Portfolio **https://karmitverma29.github.io/**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1vltTnwRyXTRXc4L7nuANgQXYJqkiVHGP/view](https://drive.google.com/file/d/1vltTnwRyXTRXc4L7nuANgQXYJqkiVHGP/view)
