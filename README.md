@@ -1,16 +1,10 @@
 <h1 align="center">Hi 👋, I'm Karmit Verma</h1>
 <h3 align="center">A passionate & Aspiring Full-Stack Web Developer/Front-end Developer</h3>
 <img  width="100%"   src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="Banner"/>
-
-- 🔭 I worked on [MailTrap](https://equal-part-8697-ps35.vercel.app/)
-
 - 🌱 I’m currently learning **Full-Stack Web development**
-
+- 🔭 I worked on [Buylance](https://buylance.netlify.app/)
 - 👯 I worked on [NordStorm](https://skincare-delta.vercel.app/index.html)
-
-- 💬 Ask me about **HTML | CSS | JavaScript | React.js | Typescript | Redux**
-
-- 📫 How to reach me **Karmittech2004@gmail.com**
+- <h3 align="center">Get in touch with me📫: **Karmittech2004@gmail.com** </h1>
 - My Portfolio **https://karmitverma29.github.io/**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1vltTnwRyXTRXc4L7nuANgQXYJqkiVHGP/view](https://drive.google.com/file/d/1vltTnwRyXTRXc4L7nuANgQXYJqkiVHGP/view)
