@@ -8,11 +8,12 @@
 
 
 
+<p align="center">
     <a href="https://drive.google.com/file/d/1vltTnwRyXTRXc4L7nuANgQXYJqkiVHGP/view?usp=sharing" target="_blank">
     <img src="https://static.thenounproject.com/png/1219287-200.png" alt="" height="100" width="100" />
   </a>
 
-
+</p>
   
 
 <h2 align="center">Connect with me:</h2>
