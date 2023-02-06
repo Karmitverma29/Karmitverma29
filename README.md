@@ -29,8 +29,8 @@
   <a href="https://linkedin.com/in/karmit2004" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50" />
   </a>
-  <a href="karmittech2004@gmail.comhttps://media.istockphoto.com/id/164142839/photo/and-mail.jpg?b=1&s=170667a&w=0&k=20&c=Ad4L5VijgeRzUu35GdJPyp3hMPIPqXkQpfU6aE2XL1M=" target="_blank">
-    <img src="" alt="LinkedIn" height="50" width="50" />
+  <a href="karmittech2004@gmail.com" target="_blank">
+    <img src="https://media.istockphoto.com/id/164142839/photo/and-mail.jpg?b=1&s=170667a&w=0&k=20&c=Ad4L5VijgeRzUu35GdJPyp3hMPIPqXkQpfU6aE2XL1M=" alt="LinkedIn" height="50" width="50" />
   </a>
 </p>
 
